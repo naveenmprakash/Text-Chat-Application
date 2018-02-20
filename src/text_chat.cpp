@@ -1,6 +1,6 @@
 /**
-  * @roshansh_assignment1
-  * @author  Roshan Shyamsunder Anantharamakrishnan <roshansh@buffalo.edu>
+  * @naveenmu_assignment1
+  * @author  Naveen Muralidhar Prakash <naveenmu@buffalo.edu>
   * @version 1.0
   *
   * @section LICENSE
