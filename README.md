@@ -1,16 +1,16 @@
 # Text-Chat-Application
 Text Chat Application written in C++
 
-Single server , multi client chat application written in C++ using TCP sockets.
+1.Single server , multi client chat application written in C++ using TCP sockets.
 
 
-'Select' system call was used to handle multiple client socket connections.
+2.'Select' system call was used to handle multiple client socket connections.
 
 
-Client Functionalities Include:
+3.Client Functionalities Include:
 
-Unicast Messaging
+(i) Unicast Messaging
 
-Broadcast Messaging
+(ii) Broadcast Messaging
 
-P2P File Transfer
+(iii) P2P File Transfer
