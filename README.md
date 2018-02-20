@@ -14,3 +14,6 @@ Text Chat Application written in C++
 (ii) Broadcast Messaging
 
 (iii) P2P File Transfer
+
+(iv) Peer Blocking
+
