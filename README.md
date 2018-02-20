@@ -8,6 +8,9 @@ Single server , multi client chat application written in C++ using TCP sockets.
 
 
 Client Functionalities Include:
+
 Unicast Messaging
+
 Broadcast Messaging
+
 P2P File Transfer
